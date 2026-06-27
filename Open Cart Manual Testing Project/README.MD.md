@@ -100,4 +100,4 @@ Each test case sheet contains:
 ## Author
 
 **Rushikesh Bhadange**  
-B.E. Electrical Engineering | QA Manual Testing
+B.Tech Electrical Engineering | QA Manual Testing
